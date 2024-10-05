@@ -1,7 +1,12 @@
-section{
-    background-color: red;
-}
 
 h1{
     color: white; font-family: "Allan", serif;
+}
+
+#product-overview{
+    background-color: red;
+}
+
+.section-title{
+    color:rgb(28, 213, 133);
 }
